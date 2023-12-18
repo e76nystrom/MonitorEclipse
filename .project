@@ -41,6 +41,11 @@
 			<location>C:/cygwin64/home/Eric/.platformio/packages/framework-stm32cube</location>
 		</link>
 		<link>
+			<name>monInclude</name>
+			<type>2</type>
+			<location>C:/Development/Arduino/monitor/include</location>
+		</link>
+		<link>
 			<name>monitor</name>
 			<type>2</type>
 			<location>C:/Development/Arduino/monitor/src</location>
